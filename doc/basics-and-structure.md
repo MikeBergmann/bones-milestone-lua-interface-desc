@@ -15,13 +15,13 @@ each program gets its subdirectory with the following obligatory structure (the 
 The programs directory must have the extension. lua, the file main.lua contains the program and the file manifest.lua 
 contains a multilingual program description in the form:
 
-    Test manifest
+    - Test manifest
     name =' Test'.
     version =' 1.0'.
     license = GPL
     desc = {
-         en =' Sample',
-         en =' example'.
+         en ='Sample',
+         de ='Beispiel'.
     }
 
 The language abbreviations correspond to the ISO 639-1 codes, which are used by the Language Module.
