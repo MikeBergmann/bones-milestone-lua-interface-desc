@@ -1,6 +1,6 @@
 # Basics and structure of Milestone LUA programs
 
-LUA programs on the Milestone comply to a large extent with the LUA 5.3 specification. However, there are some unique requirements.
+LUA programs on the Milestone comply to a large extent with the [LUA 5.3](https://www.lua.org/manual/5.3/) specification. However, there are some unique requirements.
 
 ## Directory structure and description file
 
@@ -11,7 +11,7 @@ On the Milestone audio player, you will start an LUA program from within the app
                   ├ main.lua
                   └ manifest.lua
                          
-The programs directory must have the extension. lua, the file main.lua contains the program and the file manifest.lua 
+The programs directory must have the extension '.lua', the file 'main.lua' contains the program and the file 'manifest.lua' 
 contains a multilingual program description in the form:
 
     - Test manifest
@@ -23,7 +23,7 @@ contains a multilingual program description in the form:
          de ='Beispiel'.
     }
 
-The language abbreviations correspond to the ISO 639-1 codes, which are used by the Language Module.
+The language abbreviations correspond to the [ISO 639-1 codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes), which are used by the Language Module.
 
 ### LUA Main Program
 Each Bones Milestone LUA program must include the 'BonesMilestone' module:
