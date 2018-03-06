@@ -10,5 +10,6 @@ This document describes the LUA Interface for the Bones Milestone Audio Player.
 
 * [Basics and Structure](doc/basics-and-structure.md)
 * [Milestone Module](doc/milestone-module.md)
+* [Language Module](doc/languag-module.md)
 * Examples
   * [Play an MP3 file](/examples/mp3/main.lua)
