@@ -5,9 +5,10 @@
 The milestone module contains basic functions for the milestone hardware or configuration settings. At the moment these are the following functions:
 
 
-* respath
+* [respath](#respath)
 
 ### respath
+<a name="respath"></a>
 
     respath(path)
 
