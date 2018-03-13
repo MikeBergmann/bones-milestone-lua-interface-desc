@@ -32,4 +32,5 @@ You can download the official one at Bones [here](http://www.bones.ch/media/down
 * [Milestone Module](doc/milestone-module.md)
 * [Language Module](doc/language-module.md)
 * Examples
-  * [Play an MP3 file](/examples/mp3/main.lua)
+  * [Play an MP3 file](/examples/mp3.lua/main.lua)
+  * [A simple card game](/examples/aceyducey.lua/main.lua)
