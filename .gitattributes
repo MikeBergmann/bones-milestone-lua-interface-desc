@@ -1,1 +1,1 @@
-examples/*.lua linguist-documentation=false
+examples/*.lua/*.lua linguist-documentation=false
