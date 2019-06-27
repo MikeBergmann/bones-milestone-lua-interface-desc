@@ -1,6 +1,8 @@
-# Bones Milestone LUA Interface Description
+# Bones Milestone / Talking Stamp - LUA Interface Description
 
 **This document is wip and incomplete**
+
+--------
 
 The Milestone family of devices are screenless high-quality audio players and portable digital assistants. 
 
@@ -16,7 +18,19 @@ The player is capable of:
 
 As a novum, the device is programmable in LUA.
 
-This document is an unofficial description of the LUA Interface for the Bones Milestone Audio Player.
+--------
+
+The [Talking Stamp](http://www.talkingstamp.com) is a Text To Speech (TTS) board for the Arduino community.    
+
+The board is capable of:
+- Playing music (MP3, AAC, M4A, WMA, WAV, MP4, M4V).
+- Convert text to speech (text and doc) 
+
+and, of course, is programmable in LUA.
+
+--------
+
+This document is an unofficial description of the LUA Interface for the Bones Milestone Audio Player / Talking Stamp.
 You can download the official one at Bones [here](http://www.bones.ch/media/downloads-support/M312Ace/lua/160914_Lua_Reference_Manual.docx) 
 
 # Installation
